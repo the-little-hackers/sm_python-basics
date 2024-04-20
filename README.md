@@ -368,7 +368,7 @@ _Hint 2: The characters you see on your screen are actually represented with num
 [('0', 48), ('1', 49), ('2', 50), ('3', 51), ('4', 52), ('5', 53), ('6', 54), ('7', 55), ('8', 56), ('9', 57)]
 ```
 
-![ASCII Table](ascii_table_1977_1986.png)
+![ASCII Table](./images/ascii_table_1977_1986.png)
 
 # Waypoint 13: Convert a String of Digit Characters to an Integer
 

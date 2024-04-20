@@ -370,7 +370,7 @@ _Gợi ý 2: Các ký tự mà bạn thấy hiển thị trên màn hình thực
 [('0', 48), ('1', 49), ('2', 50), ('3', 51), ('4', 52), ('5', 53), ('6', 54), ('7', 55), ('8', 56), ('9', 57)]
 ```
 
-![ASCII Table](ascii_table_1977_1986.png)
+![ASCII Table](./images/ascii_table_1977_1986.png)
 
 # Waypoint 13: Chuyển đổi chuỗi các chữ số thành số nguyên
 
