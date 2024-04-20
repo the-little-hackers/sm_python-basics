@@ -578,13 +578,13 @@ In most countries in the world, notes are represented with the names `do`, `re`,
 
 |                              |                             |
 | ---------------------------- | --------------------------- |
-| ![](notes_and_partition.png) | ![](notes_and_keyboard.jpg) |
+| ![](./images/notes_and_partition.png) | ![](./images/notes_and_keyboard.jpg) |
 
 Simply put, notes are organized in [**octaves**](https://www.youtube.com/watch?v=fV-p9n7upMc). Technically speaking, an [octave is the interval](https://en.wikipedia.org/wiki/Octave) between one musical pitch (a note) and another with double its frequency, i.e., 8 notes.
 
 In music notation, notes separated by one or more octaves have the same letter name `A`, `B`, `C`, `D`, `E`, `F`, and `G`. To differentiate two notes that fall into different octaves, the system of [international pitch notation (IPN)](https://en.wikipedia.org/wiki/Scientific_pitch_notation) combines a letter name with a number designating a specific octave. For examples: `F2`, `B5`, `F6`, `D8`.
 
-![International Pitch Notation](international_pitch_notation.png)
+![International Pitch Notation](./images/international_pitch_notation.png)
 
 _Note: The order of the musical notes (that fall within the same octave) by ascending pitch are `C`, `D`, `E`, `F`, `G`, `A`, `B`._
 
@@ -662,7 +662,7 @@ We can now [load our sound file](https://www.pygame.org/docs/ref/mixer.html#pyga
 
 Groovy!
 
-![Duke Nukem 3D](duke_nukem_3d.jpg)
+![Duke Nukem 3D](./images/duke_nukem_3d.jpg)
 
 ## Melody Player
 
@@ -706,7 +706,7 @@ _Note: Your function may only play a few notes, and then, you won't hear anythin
 
 _You might think that you are playing notes one after the other, but your code may be playing a new note while the previous note is still being played. If you look closely at the `.ogg` files, the total duration of a note is several seconds._
 
-![Note E5](note_e5.png)
+![Note E5](./images/note_e5.png)
 
 _If your code plays a note, waits for 400ms, and plays a second note, your code is actually playing 2 notes at the same time. Your code may end up trying to play more than 8 notes at the same time, i.e., more than the number of sounds that `pygame` can play simultaneously._
 

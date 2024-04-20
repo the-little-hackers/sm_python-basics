@@ -37,7 +37,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 Tốt hơn rồi!
 
-![Real Python](real_python.jpg)
+![Real Python](./images/real_python.jpg)
 
 ## Các kiểu dữ liệu nguyên thủy
 
@@ -110,7 +110,7 @@ True
 
 [Arithmetic](https://en.wikipedia.org/wiki/Arithmetic) [expressions](<https://en.wikipedia.org/wiki/Expression_(mathematics)>) (biểu thức số học) gồm các arithmetic terms (số hạng số học) được liên kết với nhau bằng phép toán số học.
 
-![Expression Operators & Operands](expression_operators_operands_vie.png)
+![Expression Operators & Operands](./images/expression_operators_operands_vie.png)
 
 Các phép toán số học cơ bản là cộng, trừ, nhân và chia.
 
@@ -765,7 +765,7 @@ _Lưu ý: Có thể bạn vẫn chưa quen với các modules của Python. Chú
 Một [**function**](https://www.youtube.com/watch?v=NSbOtYzIQI0) (hàm) là một khối mã lệnh, có thể tái sử dụng và được dùng để thực hiện một hành động. Hàm có tính module cao và có thể sử dụng lại nhiều lần trong một phần mềm ứng dụng.
 
 
-![Function Basic Principle](function_basic_principle.png)
+![Function Basic Principle](./images/function_basic_principle.png)
 
 ### Function Definition (định nghĩa hàm)
 

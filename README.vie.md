@@ -580,13 +580,13 @@ Tại đa số các nước, các nốt trong âm nhạc được ghi như sau `
 
 |                              |                             |
 | ---------------------------- | --------------------------- |
-| ![](notes_and_partition.png) | ![](notes_and_keyboard.jpg) |
+| ![](./images/notes_and_partition.png) | ![](./images/notes_and_keyboard.jpg) |
 
 Hiểu một cách đơn giản, các nốt được sắp xếp trong một [**quãng tám**](https://www.youtube.com/watch?v=fV-p9n7upMc). Trong âm nhạc, một [quãng tám là khoảng cách](https://en.wikipedia.org/wiki/Octave) giữa một cao độ âm thanh - một nốt với một nốt khác có tần số gấp đôi nó, tức tương đương với 8 nốt.
 
 Theo quy định trong âm nhạc, các nốt cách nhau bởi một hay nhiều quãng tám được ký hiệu bằng cùng một chữ cái `A`, `B`, `C`, `D`, `E`, `F`, và `G`. Để phân biệt hai nốt ở hai quãng tám khác nhau, theo quy định ký âm quốc tế - [international pitch notation (IPN)](https://en.wikipedia.org/wiki/Scientific_pitch_notation), người ta sử dụng kết hợp chữ cái biểu thị nốt đó và một chữ số biểu thị cho quãng tám tương ứng. Ví dụ: `F2`, `B5`, `F6`, `D8`.
 
-![International Pitch Notation](international_pitch_notation.png)
+![International Pitch Notation](./images/international_pitch_notation.png)
 
 _Lưu ý: Các nốt trong cùng 1 quãng tám được sắp xếp theo thứ tự cao độ tăng dần như sau: `C`, `D`, `E`, `F`, `G`, `A`, `B`._
 
@@ -664,7 +664,7 @@ Giờ ta có thể [tải về file âm thanh](https://www.pygame.org/docs/ref/m
 
 Groovy!
 
-![Duke Nukem 3D](duke_nukem_3d.jpg)
+![Duke Nukem 3D](./images/duke_nukem_3d.jpg)
 
 ## Công cụ chơi nhạc - Melody Player
 
@@ -708,7 +708,7 @@ _Lưu ý: Hàm của bạn có lẽ sẽ chơi được vài nốt, rồi... im 
 
 _Bạn nghĩ là bạn đang cho chơi lần lượt hết nốt này rồi đến nốt khác, nhưng thực tế code của bạn có thể lại phát một nốt mới trong khi nốt trước vẫn chưa phát xong. Nếu xem kỹ lại các files `.ogg`, bạn sẽ thấy tổng thời gian của một nốt kéo dài đến vài giây._
 
-![Note E5](note_e5.png)
+![Note E5](./images/note_e5.png)
 
 _Nếu đoạn code của bạn chơi một nốt nhạc, rồi chờ 400ms và phát nốt tiếp theo, thực chất là nó đang phát 2 nốt một lượt. Đoạn code đó có lẽ đang cố phát nhiều hơn 8 nốt một lúc, tức là nhiều hơn số lượng âm tối đa mà `pygame` có thể chơi cùng lúc trong một lần._
 

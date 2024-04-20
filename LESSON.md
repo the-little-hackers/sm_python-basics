@@ -1,6 +1,6 @@
 # Python Basics
 
-![Python Logo](python_logo.png)
+![Python Logo](./images/python_logo.png)
 
 [Python](https://www.python.org/) is a programming language, first released in 1991.
 
@@ -40,7 +40,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 Better!
 
-![Real Python](real_python.jpg)
+![Real Python](./images/real_python.jpg)
 
 ## Primitive Data Types
 
@@ -113,7 +113,7 @@ True
 
 [Arithmetic](https://en.wikipedia.org/wiki/Arithmetic) [expressions](<https://en.wikipedia.org/wiki/Expression_(mathematics)>) consist of arithmetic terms that are combined by arithmetic operations.
 
-![Expression Operators & Operands](expression_operators_operands.jpg)
+![Expression Operators & Operands](./images/expression_operators_operands.jpg)
 
 The basic arithmetic operations are addition, subtraction, multiplication and division.
 
@@ -761,7 +761,7 @@ _Note: You may not be familiarized with Python modules yet. We are presenting th
 
 A [**function**](https://www.youtube.com/watch?v=NSbOtYzIQI0) is a block of organized and reusable code that is used to perform a single related action. Functions provide better modularity for your application and a high degree of code reusing.
 
-![Function Basic Principle](function_basic_principle.png)
+![Function Basic Principle](./images/function_basic_principle.png)
 
 ### Function Definition
 
