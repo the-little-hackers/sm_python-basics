@@ -4,7 +4,7 @@
 
 [Python](https://www.python.org/) is a programming language, first released in 1991.
 
-As many programming languages, Python has evolved over the time. Python 3, released 2008, was a major revision of the language that is not completely [backward-compatible](https://en.wikipedia.org/wiki/Backward_compatibility) with Python 2, while there is a great amount of code initially written for Python 2. At Intek, all the source code you will write MUST be compatible with **Python 3**.
+As many programming languages, Python has evolved over the time. Python 3, released 2008, was a major revision of the language that is not completely [backward-compatible](https://en.wikipedia.org/wiki/Backward_compatibility) with Python 2, while there is a great amount of code initially written for Python 2. At The Little Hackers, all the source code you will write MUST be compatible with **Python 3**.
 
 ## Preamble
 
@@ -1243,4 +1243,4 @@ django = "*"
 python_version = "3.5"
 ```
 
-_Note: during your journey at Intek, **you will HAVE TO use `pipenv`** for every mission you will participate to. This is not a [NICE TO HAVE](https://innolution.com/resources/glossary/nice-to-have-features). This is a [**MUST HAVE**](https://innolution.com/resources/glossary/must-have-features). No `Pipfile` file in your Python project => **0**!_
+_Note: during your journey at The Little Hackers, **you will HAVE TO use `pipenv`** for every mission you will participate to. This is not a [NICE TO HAVE](https://innolution.com/resources/glossary/nice-to-have-features). This is a [**MUST HAVE**](https://innolution.com/resources/glossary/must-have-features). No `Pipfile` file in your Python project => **0**!_

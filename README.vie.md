@@ -188,7 +188,7 @@ Traceback (most recent call last):
 ValueError: The list MUST contain at least 2 points
 ```
 
-_Lưu ý: INTEK khuyến khích bạn dùng lại hàm `calculate_euclidean_distance_between_2_points` mà bạn đã viết trong waypoint 7._
+_Lưu ý: The Little Hackers khuyến khích bạn dùng lại hàm `calculate_euclidean_distance_between_2_points` mà bạn đã viết trong waypoint 7._
 
 _Lưu ý: Bạn đã thử sử dụng [list comprehension](https://medium.com/better-programming/list-comprehension-in-python-8895a785550b) và hàm dựng sẵn [`sum`](https://docs.python.org/3.7/library/functions.html?#sum) chưa? Chúng có thể hữu ích đấy!_
 
@@ -636,14 +636,14 @@ Trước tiên, ta cần cài đặt thư viện này vào dự án của mình:
 
 ```bash
 # Make sure that we are in our project's directory.
-$ cd ~/Devel/intek-sm-python_basics
+$ cd ~/Devel/sm_-_python_basics
 # Make sure that we have created a Python virtual environment.
 $ pipenv shell --three
 # Install pygame in our project.
 $ pipenv install pygame
 ```
 
-Sau đó, ta có thể dùng thư viện này để chơi đoạn âm thanh `duke_nukem_groovy.mp3` mà INTEK để sẵn trong Git repository của bạn.
+Sau đó, ta có thể dùng thư viện này để chơi đoạn âm thanh `duke_nukem_groovy.mp3` mà The Little Hackers để sẵn trong Git repository của bạn.
 
 Ta cần import module `pygame` và [khởi tạo (initialize) toàn bộ modules pygame đã imported](https://www.pygame.org/docs/ref/pygame.html?#pygame.init):
 

@@ -634,14 +634,14 @@ First, we need to install this third-party Python library in our project:
 
 ```bash
 # Make sure that we are in our project's directory.
-$ cd ~/Devel/intek-sm-python_basics
+$ cd ~/Devel/sm_python_basics
 # Make sure that we have created a Python virtual environment.
 $ pipenv shell --three
 # Install pygame in our project.
 $ pipenv install pygame
 ```
 
-Then, we can use this library to play the sound `duke_nukem_groovy.mp3` that Intek has included in the Git repository that you have cloned.
+Then, we can use this library to play the sound `duke_nukem_groovy.mp3` that The Little Hackers has included in the Git repository that you have cloned.
 
 We need to import the module `pygame` and [initialize all imported pygame modules](https://www.pygame.org/docs/ref/pygame.html?#pygame.init):
 

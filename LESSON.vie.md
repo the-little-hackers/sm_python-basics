@@ -4,7 +4,7 @@
 
 [Python](https://www.python.org/) là một ngôn ngữ lập trình, được ra mắt lần đầu tiên vào năm 1991.
 
-Như nhiều ngôn ngữ lập trình khác, Python đã phát triển theo thời gian. Phiên bản Python 3 được giới thiệu vào năm 2008. Đây là bản hiệu chỉnh lớn của ngôn ngữ lập trình Python nhưng không hoàn toàn tương thích ngược [(backward-compatible)](https://en.wikipedia.org/wiki/Backward_compatibility) với Python 2, mặc dù Python 3 đã có rất nhiều mã lệnh (code) được viết cho phiên bản Python 2. Tại INTEK, chúng tôi yêu cầu tất cả mã nguồn bạn viết PHẢI tương thích với **Python 3**.
+Như nhiều ngôn ngữ lập trình khác, Python đã phát triển theo thời gian. Phiên bản Python 3 được giới thiệu vào năm 2008. Đây là bản hiệu chỉnh lớn của ngôn ngữ lập trình Python nhưng không hoàn toàn tương thích ngược [(backward-compatible)](https://en.wikipedia.org/wiki/Backward_compatibility) với Python 2, mặc dù Python 3 đã có rất nhiều mã lệnh (code) được viết cho phiên bản Python 2. Tại The Little Hackers, chúng tôi yêu cầu tất cả mã nguồn bạn viết PHẢI tương thích với **Python 3**.
 
 ## Giới thiệu
 
@@ -1247,4 +1247,4 @@ django = "*"
 python_version = "3.5"
 ```
 
-_Lưu ý: trong thời gian học tại INTEK, **bạn sẽ PHẢI sử dụng `pipenv`** cho tất cả các nhiệm vụ mà bạn tham gia. Không phải là [NÊN SỬ DỤNG](https://innolution.com/resources/glossary/nice-to-have-features), mà là [**PHẢI SỬ DỤNG**](https://innolution.com/resources/glossary/must-have-features). Nếu không có tập Pipfile nào trong dự án Python của bạn => **0**!_
+_Lưu ý: trong thời gian học tại The Little Hackers, **bạn sẽ PHẢI sử dụng `pipenv`** cho tất cả các nhiệm vụ mà bạn tham gia. Không phải là [NÊN SỬ DỤNG](https://innolution.com/resources/glossary/nice-to-have-features), mà là [**PHẢI SỬ DỤNG**](https://innolution.com/resources/glossary/must-have-features). Nếu không có tập Pipfile nào trong dự án Python của bạn => **0**!_
