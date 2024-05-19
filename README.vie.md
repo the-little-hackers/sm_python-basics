@@ -144,7 +144,7 @@ Ví dụ:
 
 Viết hàm `calculate_euclidean_distance_between_2_points` nhận 2 đối số bằng 2 tham số `p1` và `p2`, biểu diễn 2 điểm trong một [hệ tọa độ Descartes](https://en.wikipedia.org/wiki/Cartesian_coordinate_system), và trả kết quả là [khoảng cách Euclid](https://en.wikipedia.org/wiki/Euclidean_distance) giữa `p1` và `p2`.
 
-![Cartesian Coordinate System](cartesian-coordinate-system.svg)
+![Cartesian Coordinate System](./images/cartesian-coordinate-system.svg)
 
 `p1` và `p2` được biểu diễn dưới dạng tuple bao gồm 2 phần tử kiểu integer hoặc float `(x, y)`, trong đó `x` tương ứng với vị trí trên trục tọa độ X (trục hoành), và `y` tương ứng với vị trí trên trục tọa độ Y (trục tung).
 
